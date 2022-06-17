@@ -10,7 +10,7 @@ _39 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://anonsas.github.io/02-astronaut/
+Site published at: https://anonsas.github.io/05-carousel/
 
 ## Project features
 
